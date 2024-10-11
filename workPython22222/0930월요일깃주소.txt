@@ -1,0 +1,60 @@
+
+https://git-scm.com  프로그램다운로드
+ Git-2.46.1-64-bit.exe파일 설치하세요
+https://github.com 회원가입
+
+제어판 자격 증명 관리자
+
+본인껏 https://github.com/posasi2000/sunday.git
+
+	본인메일 ".com"
+	본인이름 "young"
+
+
+C:\Users\user> cd\
+C:\> cd Mtest
+C:\Mtest> path
+C:\Mtest> dir
+C:\Mtest> cd workHtml
+C:\Mtest\workHtml> dir
+C:\Mtest\workHtml> cls
+C:\Mtest\workHtml> git -v 
+C:\Mtest\workHtml> git config --global user.email "메일주소"
+C:\Mtest\workHtml> git config --global user.name "이름"
+C:\Mtest\workHtml> git init
+C:\Mtest\workHtml> git add *.*
+C:\Mtest\workHtml> git commit -m "09-23 1217gitTesting"
+C:\Mtest\workHtml> git remote add origin https://github.com/posasi2000/sunday.git
+C:\Mtest\workHtml> git remote
+   origin 내용출력
+C:\Mtest\workHtml> git branch
+  * master내용출력
+
+C:\Mtest\workHtml> git push origin master
+
+
+///////////////////////////////////////////////////////////////////
+C:\Mtest\workPython
+한번더 sunday대신  monday이름으로 workPython
+
+C:\Users\user> cd\
+C:\> cd Mtest
+C:\Mtest> cd workPython
+C:\Mtest\workPython> git -v 
+C:\Mtest\workPython> git init
+C:\Mtest\workPython> git add *.*
+C:\Mtest\workPython> git commit -m "09-23 1240pythonTesting"
+C:\Mtest\workPython> git remote add origin https://github.com/posasi2000/monday.git
+C:\Mtest\workPython> git push origin master
+
+https://github.com/posasi2000/monday.git
+
+
+//09-23-월요일 깃클론
+C:\Users\user> cd\
+C:\> cd Mtest
+C:\Mtest> cd dev
+C:\Mtest\dev> dir
+C:\Mtest\dev> git clone https://github.com/jhnoh70/monday
+  monday폴더 자동생성
+
